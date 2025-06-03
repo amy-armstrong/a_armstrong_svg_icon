@@ -2,13 +2,13 @@
 
 ## Installation
 
-### There is no installation process required. Simply download the files to your computer.
+## There is no installation process required. Simply download the files to your computer.
 
-### Usage
+## Usage
 
-### Open index.html in your browser of choice.
+## Open index.html in your browser of choice.
 
-### Contributing
+## Contributing
 
 ## Fork it!
 Create your feature branch: git checkout -b my-new-feature
