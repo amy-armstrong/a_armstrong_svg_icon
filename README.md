@@ -1,4 +1,4 @@
-# This is a repo for our Music Mixer Assignment for MMED-1055.
+# This is a repo for my SVG Icons Project.
 
 ## Installation
 
