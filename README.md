@@ -1,16 +1,16 @@
-#This is a repo for our Music Mixer Assignment for MMED-1055.
+# This is a repo for our Music Mixer Assignment for MMED-1055.
 
-##Installation
+## Installation
 
-###There is no installation process required. Simply download the files to your computer.
+### There is no installation process required. Simply download the files to your computer.
 
-###Usage
+### Usage
 
-###Open index.html in your browser of choice.
+### Open index.html in your browser of choice.
 
-###Contributing
+### Contributing
 
-##Fork it!
+## Fork it!
 Create your feature branch: git checkout -b my-new-feature
 Commit your changes: git commit -am 'Add some feature'
 Push to the branch: git push origin my-new-feature
@@ -19,6 +19,6 @@ Credits
 
 Amy Armstrong 
 
-##License
+## License
 
-###MIT - See included license file.
+### MIT - See included license file.
